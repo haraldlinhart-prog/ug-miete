@@ -38,3 +38,4 @@ Sitemap: https://www.ug-miete.de/sitemap.xml
 
 # LLM-lesbare Zusammenfassung dieser Website:
 # https://www.ug-miete.de/llms.txt
+Sitemap: https://www.ug-miete.de/sitemap-blog.xml
